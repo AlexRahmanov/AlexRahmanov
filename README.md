@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/alexander-rahmanov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <h1>
-    <img src="https://komarev.com/ghpvc/?username=AlexRahmanov&style=flat-square&color=blue" alt=""/>
-</h1>
 </div>
 <img src="https://komarev.com/ghpvc/?username=AlexRahmanov&style=flat-square&color=blue" alt=""/>
 
