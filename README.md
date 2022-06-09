@@ -42,7 +42,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://adilmarghadi1.github.io/AdilDev/"><img alt="Website" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg"></a>
+<a href="https://adilmarghadi1.github.io/AdilDev/"><img alt="Website" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Website" alt="Website" width="25" height="25"></a>
 <a href="https://www.linkedin.com/in/adil-marghady-2231371b6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adil%20 %20marghadi-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/adil.dev1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adil.dev1-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:adilmarghadi2020@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adilmarghadi2020@gmail.com-blue?style=flat-square&logo=gmail"></a>
