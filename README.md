@@ -50,7 +50,7 @@ A highly motivated full-stack web developer, seeking for new opportunity to star
 
 
 
-# My Stats:
+<h2>My Stats:</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexRahmanov&theme=dark&background=000000)](https://git.io/streak-stats)
 
