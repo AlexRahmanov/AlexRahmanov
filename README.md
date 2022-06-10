@@ -7,6 +7,7 @@
 - 🎓 &nbsp; I specialize in creating software for clients ranging from individuals and small-businesses all the way to large enterprise corporations.
 - 💼 &nbsp; What would you do if you had a software expert available at your fingertips?
 
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
@@ -34,12 +35,15 @@
 
   
 
-<br/>
 
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/alexander-rahmanov/">
+    <img src="https://camo.githubusercontent.com/e4e22131f962f380087d193a17a51b055a7e687384c7c1f0bb4d284522f88a9a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=flat&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+</div>
 
 <p align="center">
 <a href="https://adilmarghadi1.github.io/AdilDev/"><img alt="Website" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Website" alt="Website" width="25" height="25"></a>
