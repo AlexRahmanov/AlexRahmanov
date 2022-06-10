@@ -50,7 +50,7 @@
   <a href="mailto:alexr722@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 </div>
 <img src="https://komarev.com/ghpvc/?username=AlexRahmanov&style=flat-square&color=blue" alt=""/>
- <hr>
+
 
 
 # My Stats:
