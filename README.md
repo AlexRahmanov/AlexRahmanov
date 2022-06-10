@@ -2,7 +2,7 @@
 <h2><img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hey there! I'm Alex</h2>
 
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;About Me: </h3>
 
 
 - 🤔 &nbsp; I am passionate about building excellent software that improves the lives of those around me.
@@ -10,7 +10,7 @@
 - 💼 &nbsp; What would you do if you had a software expert available at your fingertips?
 <hr>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tech Stack:</h3>
 
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
@@ -41,7 +41,7 @@
 
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Connect with Me: </h3>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/alexander-rahmanov/">
