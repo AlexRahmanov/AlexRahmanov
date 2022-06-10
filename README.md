@@ -5,9 +5,6 @@
 <h2> 👨🏻‍💻 &nbsp;About Me: </h2>
 A highly motivated full-stack web developer, seeking for new opportunity to start my career as a web developer! Able to create responsive, modern, and user-friendly applications and web pages using mobile first approach. Passionate about what is possible to achieve using the latest technologies and eager to learn new things!
 
-- 🤔 &nbsp; I am passionate about building excellent software that improves the lives of those around me.
-- 🎓 &nbsp; I specialize in creating software for clients ranging from individuals and small-businesses all the way to large enterprise corporations.
-- 💼 &nbsp; What would you do if you had a software expert available at your fingertips?
 <hr>
 
 <h2> 🛠 &nbsp;Tech Stack:</h2>
