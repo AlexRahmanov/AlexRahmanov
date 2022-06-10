@@ -6,7 +6,7 @@
 - 🤔 &nbsp; I am passionate about building excellent software that improves the lives of those around me.
 - 🎓 &nbsp; I specialize in creating software for clients ranging from individuals and small-businesses all the way to large enterprise corporations.
 - 💼 &nbsp; What would you do if you had a software expert available at your fingertips?
-
+<hr>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -35,7 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="30" height="30"/>&nbsp;
   
 
-  
+<hr>  
 
 
 
