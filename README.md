@@ -44,18 +44,7 @@
     <img src="https://camo.githubusercontent.com/e4e22131f962f380087d193a17a51b055a7e687384c7c1f0bb4d284522f88a9a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=flat&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
   </a>
 </div>
-
-<p align="center">
-<a href="https://adilmarghadi1.github.io/AdilDev/"><img alt="Website" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Website" alt="Website" width="25" height="25"></a>
-<a href="https://www.linkedin.com/in/adil-marghady-2231371b6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-adil%20 %20marghadi-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adil.dev1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adil.dev1-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:adilmarghadi2020@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adilmarghadi2020@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-<br/>
-
-![](https://komarev.com/ghpvc/?username=adilmarghadi1)
-
-
+<img src="https://komarev.com/ghpvc/?username=AlexRahmanov&style=flat-square&color=blue" alt=""/>
  
 
 
@@ -64,19 +53,6 @@
 
 
 
-
-
-<h1>
-  Hey there
-</h1>
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/alexander-rahmanov/">
-    <img src="https://camo.githubusercontent.com/e4e22131f962f380087d193a17a51b055a7e687384c7c1f0bb4d284522f88a9a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=flat&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-  </a>
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=AlexRahmanov&style=flat-square&color=blue" alt=""/>
 
 
 
