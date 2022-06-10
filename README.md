@@ -3,13 +3,15 @@
 <hr>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<hr>
 
 - 🤔 &nbsp; I am passionate about building excellent software that improves the lives of those around me.
 - 🎓 &nbsp; I specialize in creating software for clients ranging from individuals and small-businesses all the way to large enterprise corporations.
 - 💼 &nbsp; What would you do if you had a software expert available at your fingertips?
-<hr>
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+<hr>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
@@ -36,11 +38,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="30" height="30"/>&nbsp;
   
 
-<hr>  
 
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<hr>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/alexander-rahmanov/">
@@ -50,7 +52,6 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=AlexRahmanov&style=flat-square&color=blue" alt=""/>
  
-<hr>
 
 
 # My Stats:
