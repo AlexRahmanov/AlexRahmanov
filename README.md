@@ -55,22 +55,6 @@ A highly motivated full-stack web developer, seeking for new opportunity to star
 </div>
 <img src="https://komarev.com/ghpvc/?username=AlexRahmanov&style=flat-square&color=blue" alt=""/>
 
-<div class="js-activity-overview-graph-container" data-percentages="{&quot;Commits&quot;:90,&quot;Pull requests&quot;:7,&quot;Code review&quot;:3,&quot;Issues&quot;:0}">
-    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="js-activity-overview-graph-spinner mx-auto mt-4 anim-rotate d-none">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke"></circle>
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"></path>
-</svg>
-    <svg class="js-activity-overview-graph mx-auto d-block" xmlns="http://www.w3.org/2000/svg" width="286" height="259">
-      <g transform="translate(-18.60235595703125, -39.62225341796875)">
-        <path class="js-highlight-blob" stroke-linejoin="round" fill="#40c463" stroke="#40c463" opacity="0.5" stroke-width="7" d="M170,166.9268020629883 L170,170 L170,173.1707951863607 L81.80406188964844,170 z"></path>
-        <line stroke-width="2" stroke-linecap="round" class="js-highlight-x-axis activity-overview-axis" x1="77.80406188964844" y1="170" x2="262.19593811035156" y2="170"></line>
-        <line stroke-width="2" stroke-linecap="round" class="js-highlight-y-axis activity-overview-axis" x1="170" y1="77.80406188964844" x2="170" y2="262.19593811035156"></line>
-        <ellipse class="activity-overview-point js-highlight-top-ellipse" rx="3" ry="3" stroke-width="2" fill="white" cx="170" cy="164.9268020629883"></ellipse>
-        <ellipse class="activity-overview-point js-highlight-right-ellipse d-none" rx="3" ry="3" stroke-width="2" fill="white"></ellipse>
-        <ellipse class="activity-overview-point js-highlight-bottom-ellipse" rx="3" ry="3" stroke-width="2" fill="white" cx="170" cy="175.1707951863607"></ellipse>
-        <ellipse class="activity-overview-point js-highlight-left-ellipse" rx="3" ry="3" stroke-width="2" fill="white" cx="79.
-
-
 
 <h2>My Stats:</h2>
 
